@@ -1,0 +1,41 @@
+{
+    "CAT WORLD": [
+      {
+        "x": 1240,
+        "y": 376,
+        "height": 371,
+        "width": 521,
+        "color": "orange",
+        "title": "CAT BREEDS",
+        "text": "#tag:large: Cats come in a vast array of breeds, each with unique characteristics. Here are a few popular ones:\n\n* **Persian:** Known for their long, flowing fur and gentle demeanors.\n* **Maine Coon:** The gentle giants of the cat world, with a majestic appearance and playful personalities.\n* **Siamese:** Vocal and intelligent cats with distinctive markings and a love for attention.\n* **Sphynx:** Hairless cats with a unique wrinkled appearance and an affectionate nature.\n* **British Shorthair:** Plush fur, round eyes, and a calm, dignified presence.\n\n#tag:large:"
+      },
+      {
+        "x": 470,
+        "y": 630,
+        "height": 302,
+        "width": 718,
+        "color": "purple",
+        "title": "FUN FACTS ABOUT CATS",
+        "text": "#tag:large: Did you know? Cats have some fascinating abilities and quirks:\n\n* Cats can jump up to six times their body length!\n* They have excellent night vision thanks to special adaptations in their eyes.\n* A cat's purr is not just a sign of contentment; it can also be used for communication and healing.\n* Cats have a strong sense of smell, much better than humans.\n* Some breeds of cats, like the Maine Coon, can have polydactyly, meaning extra toes!\n\n#tag:large:"
+      },
+      {
+        "x": 254,
+        "y": 383,
+        "height": 356,
+        "width": 618,
+        "color": "pink",
+        "title": "CARING FOR YOUR CAT",
+        "text": "#tag:large: Providing a loving home for your feline friend requires proper care. Here are some essentials:\n\n* **Nutrition:** Feed your cat a high-quality diet appropriate for their age and activity level.\n* **Fresh Water:** Ensure your cat has access to clean, fresh water at all times.\n* **Litter Box:** Provide a clean litter box in a quiet location and scoop it daily.\n* **Scratching Post:** Encourage natural scratching behavior with a sturdy scratching post.\n* **Veterinary Care:** Schedule regular checkups with your veterinarian for preventive care.\n* **Love and Play:** Cats need love and attention. Spend time playing with them using interactive toys.\n\n#tag:large:"
+      },
+      {
+        "x": 49,
+        "y": 217,
+        "height": 345,
+        "width": 422,
+        "color": "teal",
+        "title": "CUTE CAT QUOTES",
+        "text": "#tag:large: Because who doesn't love a good cat quote? Here are a few to brighten your day:\n\n* \"Cats are connoisseurs of comfort.\" - Joanna Sykes\n* \"A house is not a home without a cat.\" -  Anonymous\n* \"There's something about the way cats look at you that says, 'You wouldn't dare.'\" -  Pam Brown\n* \"Owning a cat is having a purring machine you can stroke.\" -  LauraJohnson\n* \"Cats are independent, they come when they feel like it and do what they want, which is what makes owning a cat so special.\" -  Grace Kelly\n\n#tag:large:"
+      }
+    ]
+  }
+  
