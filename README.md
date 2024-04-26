@@ -1,0 +1,1 @@
+For context, the original note was created using a GNOME Notes extension and its backup was in JSON format. Online converters didn't work right and the extension didn't have an obvious way of importing the backup so I came up with this script to convert the notes to a more usable format. 
